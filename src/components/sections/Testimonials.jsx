@@ -31,7 +31,7 @@ const BeautyTestimonialSlider = () => {
     width: 750,
     margin: "40px auto",
     fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
-    color: "#4a4a4a",
+    color: "black",
   };
 
   const textSection = {
@@ -72,7 +72,7 @@ const BeautyTestimonialSlider = () => {
 
   const subtitleStyle = {
     fontSize: "14px",
-    color: "#888",
+    color: "black",
     marginTop: 2,
     fontStyle: "italic",
   };

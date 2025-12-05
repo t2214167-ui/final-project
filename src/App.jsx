@@ -7,7 +7,7 @@ import Setions from "./components/sections/Setions";
 import Sections4 from "./components/sections/Section4";
 import BeautyProductGrid from "./components/layout/Beautypr";
 import BeautyTestimonialSlider from "./components/sections/Testimonials";
-
+import Newsletter from "./components/sections/Newsletter";
 
 function App() {
   return (
@@ -19,9 +19,7 @@ function App() {
       <Sections4 />
       <BeautyProductGrid />
       <BeautyTestimonialSlider />
-      
-
-      <HeroStats />
+    <Newsletter />
       <Footer />
       
     </>

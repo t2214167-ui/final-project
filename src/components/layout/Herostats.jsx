@@ -7,7 +7,7 @@ export default function HeroStats() {
   ];
 
   return (
-    <section style={{ display: "flex", padding: 40, backgroundColor: "#ffe6f0" }}>
+    <section style={{ display: "flex", padding: 40, backgroundColor: "pink" }}>
       <div style={{ flex: 1, paddingRight: 20 }}>
         <h2 style={{ color: "#b12a54" }}>Enhance Your Natural Glow</h2>
         <p>Discover premium beauty essentials made for you.</p>
